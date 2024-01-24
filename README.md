@@ -1,6 +1,6 @@
 # LotLarPro
 
-This project uses Astro, Tailwind CSS, and PostCSS plugins. Follow the steps below to get started
+This project uses Astro, Tailwind CSS, and PostCSS plugins. Follow the steps below to get started.
 
 ## Local setup
 
