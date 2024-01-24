@@ -7,7 +7,7 @@ This project uses Astro, Tailwind CSS, and PostCSS plugins. Follow the steps bel
 1. Clone or download this repository
 
    ```sh
-   git clone https://
+   git clone https://github.com/joaquinvaldezzz/lotlarpro.git
    ```
 
 2. Navigate to the folder
